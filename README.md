@@ -211,24 +211,24 @@
 
 | Unidad | Subtema | Estado | Práctica |
 |:---:|---|:---:|---|
-| 1 | 1.1 – 1.4 Perspectiva del DBA y elección de SGBD | ⬜ | — |
+| 1 | 1.1 – 1.4 Perspectiva del DBA y elección de SGBD | ✅ |
 | 2 | 2.2 Estructura física de la base de datos | ✅ | P3 |
 | 2 | 2.3 – 2.4 Requerimientos e instalación | ✅ | P1-2 |
 | 2 | 2.5 Variables de ambiente | ✅ | P6 |
 | 2 | 2.6 – 2.8 Instalación, configuración, alta y baja | ✅ | P1-2 · P3 |
 | 3 | 3.1 – 3.2 Espacio de almacenamiento | ✅ | P6 · P7 · P8 |
-| 3 | 3.3 Cuotas de espacio para usuarios | ⬜ | — |
+| 3 | 3.3 Cuotas de espacio para usuarios | ✅ |
 | 3 | 3.4 Espacios para objetos y roles | ✅ | P4-5 · P8 |
 | 4 | 4.1 Archivos log | ✅ | P9 |
 | 4 | 4.2 Modos de operación (alta, baja, recovery) | ✅ | P9 |
-| 4 | 4.3 Índices, reorganización y reconstrucción | ⬜ | — |
+| 4 | 4.3 Índices, reorganización y reconstrucción | ✅ |
 | 5 | 5.1 – 5.2 Espejeo y réplica | ✅ | P10 |
 | 5 | 5.3 – 5.4 Respaldo y recuperación | ✅ | P9 · P10 |
-| 5 | 5.5 Migración de la base de datos | ⬜ | — |
+| 5 | 5.5 Migración de la base de datos | ✅ |
 | 6 | 6.1 Monitoreo | ✅ | P10 |
-| 6 | 6.2 Auditoría | 🟨 | P10 (parcial) |
+| 6 | 6.2 Auditoría |✅ | P10 |
 
-> ✅ Cubierto · 🟨 Parcial · ⬜ Pendiente
+> ✅ Cubierto 
 
 ---
 
