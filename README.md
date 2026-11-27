@@ -252,7 +252,6 @@
 ```text
 📦 Administracion-de-Base-de-Datos
  ┣ 📄 README.md
- ┣ 📄 Administracion_de_Base_de_Datos.pdf        ← Temario oficial TecNM
  ┣ 📁 Unidad_2
  ┃ ┣ 📄 Reporte_Practica1y2_23600266_AD26_6J3A.pdf
  ┃ ┗ 📄 Reporte_Practica3_23600266_AD26_6J3A.pdf
